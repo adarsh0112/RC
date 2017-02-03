@@ -1,0 +1,20 @@
+Test cases for bot.java
+
+Hi!
+Hello
+heLlO
+
+I don't think I can solve this.
+I am a student.
+
+What is your name?
+who are you?
+what the hell is this question
+Where are you?
+who is your dad?
+why is this so hard?
+how can i solve this?
+because I am not so smart
+you are awesome
+
+

@@ -1,0 +1,20 @@
+Q1) A primtive chat bot that finds patterns in strings an responds accordingly. User has to figure out all the patterns and code accordingly.
+
+Input															Output
+X, where X=word/gibbereish without space or punctuation/number	"Hey, what's <X>?"
+I <X>.															"Oh. May I know why?"
+
+I am <X>.														"I once knew someone was also <X>"
+What/what's/Why/How <X>? 										"Ummm...I'm not so sure. Take a guess?"
+
+Q2) Input-> Two strings (Adarsh Aditya)
+	Output-> Levenstein distance between the two strings (4)
+
+Q3) Transpose of a string
+	e.g. Input: Adarsh
+				
+				A r _
+				d s _
+				a h _
+
+		Output: Ar_ds_ah_
