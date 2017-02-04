@@ -1,8 +1,9 @@
 import java.io.*;
-public class bot
+public class q4
 {
 	public static void main(String args[]) throws Exception
 	{
+		
 		BufferedReader d= new BufferedReader(new InputStreamReader(System.in));
 		String s=d.readLine();
 		s=s.trim(); s=s.toLowerCase();
